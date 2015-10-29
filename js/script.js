@@ -1,9 +1,9 @@
 
 var _tasks = {
-  'home': function () {
+  home: function () {
     console.log('home');
   },
-  'show': function () {
+  show: function () {
     console.log('show');
   }
 };
